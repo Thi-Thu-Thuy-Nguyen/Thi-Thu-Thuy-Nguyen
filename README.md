@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Thi-Thu-Thuy-Nguyen
 - 👀 I’m interested in Computer Vision, Deep Learning
 - 🌱 My project is about Animal Detection
-- 💞️ My first submitted paper is: SAWIT: A Small-sized Animal Wild Image daTaset with annotations
+- 💞️ My first submitted paper is: "SAWIT: A Small-sized Animal Wild Image daTaset with annotations".
 - 📫 How to reach me: @thithuthuy@deakin.edu.au
 
 <!---
