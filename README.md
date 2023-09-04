@@ -2,7 +2,7 @@
 - 👀 I’m interested in Computer Vision, Deep Learning
 - 🌱 My project is about Animal Detection
 - 💞️ My first submitted paper is: "SAWIT: A Small-sized Animal Wild Image daTaset with annotations".
-- 🏆 Link: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4313792
+- 👩‍🎓 Link: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4313792
 - 📫 How to reach me: @thithuthuy@deakin.edu.au
 
 <!---
